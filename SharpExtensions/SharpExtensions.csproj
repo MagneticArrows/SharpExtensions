@@ -6,30 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Extensions\InfrastructureExtensions\DependencyInjection\" />
-    <Folder Include="Extensions\InfrastructureExtensions\Logging\" />
-    <Folder Include="Extensions\InfrastructureExtensions\Mapping\" />
-    <Folder Include="Extensions\InfrastructureExtensions\Locks\" />
-    <Folder Include="Extensions\MathExtensions\" />
-    <Folder Include="Extensions\EncryptionExtensions\" />
-    <Folder Include="Extensions\Algorithms\" />
-    <Folder Include="Extensions\TypesExtensions\Json\" />
-    <Folder Include="Extensions\TypesExtensions\Date\" />
-    <Folder Include="Extensions\EnumerableExtensions\" />
-    <Folder Include="Extensions\ConditionalExtensions\" />
-    <Folder Include="Extensions\NetworkingExtensions\Http\" />
-    <Folder Include="Extensions\NetworkingExtensions\Dapper\" />
-    <Folder Include="Extensions\NetworkingExtensions\EntityFramework\" />
-    <Folder Include="Extensions\NetworkingExtensions\" />
-    <Folder Include="Extensions\NetworkingExtensions\SqlNative\" />
-    <Folder Include="Extensions\TypesExtensions\Boolean\" />
-    <Folder Include="Extensions\TypesExtensions\XML\" />
-    <Folder Include="Extensions\TypesExtensions\Numeric\" />
-    <Folder Include="Extensions\TypesExtensions\String\" />
-    <Folder Include="DesignPatterns\" />
-    <Folder Include="Extensions\InfrastructureExtensions\Cache\" />
-    <Folder Include="NuGetInfrastructure\" />
-  </ItemGroup>
-
 </Project>
